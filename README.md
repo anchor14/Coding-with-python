@@ -1,4 +1,4 @@
-# Coding-with-python
+# Intro to CS Project
 
 Complica is a game variation of the 'Connect 4.'
 
